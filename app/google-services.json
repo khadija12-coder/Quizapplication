@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199202021478",
+    "project_id": "app-codedeconduite",
+    "storage_bucket": "app-codedeconduite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199202021478:android:883c56d8a1bed582cdcda7",
+        "android_client_info": {
+          "package_name": "com.example.app_codedeconduite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199202021478-b7n4f2l90bjcc6nkfhuh176it6o22m1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hQK3-k2vDn98zTpG7k94vtNnWzc2_kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199202021478-b7n4f2l90bjcc6nkfhuh176it6o22m1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
